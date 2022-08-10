@@ -1,0 +1,26 @@
+Space… the final frontier…
+This is little less than that. Specifically, a portable teleporter Combadge that allows you to beam, well, anywhere. This is a scaled down item set from my as yet unreleased Star Trek conversion mod.
+Think Waypoint teleportation from Xaero’s Minimap Mod in Minecraft, but in Terraria, obviously. And balanced to fit your vanilla run, or as part of a ModPack. Simply activate the PADD UI with a button press [P as default], drop down a save at your present location, and boom! Pressing the Beam button [L by default] will Beam you to that location. Navigate through all your saved locations with the Next and Previous buttons at the top of the PADD. It even has a local area scanner so you can visually identify where you’re beaming to before you go! (And it lets you see through walls a little).
+To acquire it, you’ll need a Replicator, that’s 10 Iron/Lead bars at a crafting table. The Replicator also acts as a scaled down Journey Mode, providing infinite base materials [wood, stone, sand, dirt] and basic foods, just to make building and early game a little more convenient!
+The final addition of this mod is Geordi’s VISOR. It was just supposed to be cosmetic, but I never really know when to stop so try it on! See what it does!
+Feel free to use this mod in any Modpack! Tweet me if you want, I’d love to see it!
+~~~~~~~~~~~~~~
+Balance
+~~~~~~~~~~~~~~
+The Combadge has been fully balanced tested. That’s why it works the way it does. You need to be wearing it in an accessory slot and it takes slightly longer to initiate a teleport than the Magic Mirror. If you were to use it as a replacement for the teleport pads in a boss arena, you’d also need to contend with the switching between locations on the PADD UI. It’s purely meant for exploration and convenience. (But if you want to use it for combat somehow, by all means).
+The Replicator in its current form does break the economy a little with you being able to replicate infinite food for infinite sale but eh, honour system. We all agree not to do that until I eventually change it (its not that hard I’m just lazy).
+The VISOR is a little OP for early game but once again it’s a good convenience and shortens some of the unfun stuff so you can get to the good stuff. Worst case scenario, you decide it’s not for you and you leave it in the Replicator or just use it as an accessory.
+~~~~~~~~~~~~~~
+Bugs
+~~~~~~~~~~~~~~
+These are the only known bugs. Feel free to message me on twitter linked below if you find any more.
+
+-Sometime the PADD display is blank when you load into a world until you go there to refresh the map data. This is especially prominent in multiplayer. Looking into a few fixes.
+-Beam effect doesn’t show up in multiplayer. Synchronizing is a pain, but I’ll get around to it. For now, just *imagine* your friend had a cool beam effect or is a Q and can just pop in and out at will.
+-Location saves are bound to characters across all worlds, I.e if you save a location in world A, the mod will still store and use that location when you load into world B. This can lead to you beaming into solid rock or really high up, so maybe stick to using this mod on one world for now until I make a fix for that.
+~~~~~~~~~~~~~~
+Socials
+~~~~~~~~~~~~~~
+Twitter: https://twitter.com/RateMyPsyduck
+Github: https://github.com/RateMyPsyduck
+

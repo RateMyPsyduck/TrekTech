@@ -1,0 +1,3 @@
+displayName = Star Trek Transporter Mod
+author = RateMyPsyduck
+version = 1.02
